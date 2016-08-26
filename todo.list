@@ -1,0 +1,15 @@
+# Anything starting with a hash is not shown on the screen allowing you to have detail in .
+
+# empty line like above are ignored.
+#*** The three stars show this is important
+
+#Testing settings
+Fix Todo notifier Applet (as is)
+Install Linux Hipchat Client
+Check Zendesk API stuff
+Zendesk notifier integration
+Better looking / acting notifications
+Sort zendesk notifiers by priority / SLA (hard coded rules)
+Implement custom rules engine for task notifier
+Drink Water
+Work Tickets

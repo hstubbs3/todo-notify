@@ -1,0 +1,15 @@
+{
+ "text_width": {
+    "type" : "scale",
+    "default" : 160,
+    "min" : 20,
+    "max" : 200,
+    "step" : 10,
+    "description" : "The width of text in characters"
+ },
+  "list_editor": {
+    "type" : "entry",
+    "default" : "gedit",
+    "description" : "The editor that should be used to edit the list"
+ },
+}
